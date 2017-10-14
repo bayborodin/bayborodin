@@ -10,12 +10,14 @@ I spend a lot of time studying the features and specifics of the programming lan
 
 # Things I like to use
 ## JavaScript
-## Go
+## C/C++
 
 # Other things I’m good at
-## C/C++
+## Go
 ## Haskell
 ## Racket
+I use Racket for my education projects, and as one of languages for learnig functional programming anf SICP.
+In addition, I use Racket as a tool for developing this blog. The fact is that as a platform for the blog, I chose the static site generator Frog. Frog is not only written in Racket, but also uses this language to configure and configure templates.
 ## Docker
 ## AWS
 
