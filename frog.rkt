@@ -4,9 +4,11 @@
 ;; in frog/params.
 (define/contract (init)
   (-> any)
-  (current-scheme/host "http://www.example.com")
-  (current-title "My Blog")
-  (current-author "The Unknown Author"))
+  (current-scheme/host "https://bayborodin.ru")
+  (current-title "Nicholas Bayborodin's Blog")
+  (current-author "Nicholas Bayborodin")
+  (current-source-dir "_src")
+  (current-output-dir "docs"))
 
 ;; Called once per post and non-post page, on the contents.
 (define/contract (enhance-body xs)
