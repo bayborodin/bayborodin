@@ -2,7 +2,7 @@
     Date: 2017-10-21T19:15:00
     Tags: technology, programming language
     
-Last week a has started to learn the server-side JavaScript. As for education platform (MOOC), I've selected Hexlet. <a href='@|https://hexlet.io|'>@|Hexlet|</a> is one of more authoritative education platforms in Russia. It offers several learning paths - Frontend JavaScript Developer, Backend JavaScript Developer, PHP Developer and Java Developer.  
+Last week a has started to learn the server-side JavaScript. As for education platform (MOOC), I've selected Hexlet. [Hexlet]: https://hexlet.io is one of more authoritative education platforms in Russia. It offers several learning paths - Frontend JavaScript Developer, Backend JavaScript Developer, PHP Developer and Java Developer.  
 <!-- more -->
 The "Backend JavaScript Developer" is the deeper and more conceptual programme and I has made a decision to start learning on this programme.
 I've completed some lessons and had planned to continue my education, but when I have studied proposals on the IT jobs market, I was surprised...
