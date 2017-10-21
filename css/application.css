@@ -178,7 +178,7 @@ blockquote {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  font-size: 1.2em;
+  font-size: 1em;
   font-family: "Merriweather Sans", sans-serif;
   font-weight: 300;
   width: 100%; }
@@ -193,7 +193,7 @@ blockquote {
   .navigation-bar h1 {
     margin: 5px 0;
     text-decoration: none;
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: inherit; }
   .navigation-bar .navigation-items {
     padding: 0; }
