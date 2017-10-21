@@ -13,6 +13,8 @@ I dedicate most of my free time to developing and maintaining open source softwa
 
 ## Things I like to use
 ### Go
+This is a very interesting language. But, unfortunately, I do not have the opportunity to actively use it in my projects. Therefore, I can not call myself golang ninja, but I follow its evolution, and sometimes I write on it small utilty.
+
 ### C/C++
 
 ## Other things I’m good at
