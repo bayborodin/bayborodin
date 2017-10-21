@@ -5,7 +5,7 @@
 (define/contract (init)
   (-> any)
   (current-scheme/host "https://bayborodin.ru")
-  (current-title "{red}code")
+  (current-title "Nicholas Bayborodin's blog")
   (current-author "Nicholas Bayborodin")
   (current-source-dir "_src")
   (current-output-dir "docs"))
