@@ -14,15 +14,7 @@
   <author>
    <name>Nicholas Bayborodin</name></author>
   <content type="html">
-&lt;p&gt;Last week a has started to learn the server-side JavaScript. As for education platform (MOOC), I&amp;rsquo;ve selected Hexlet. Hexlet is one of more authoritative education platforms in Russia. It offers several learning paths - Frontend JavaScript Developer, Backend JavaScript Developer, PHP Developer and Java Developer.&lt;/p&gt;
-
-&lt;p&gt;The &amp;ldquo;Backend JavaScript Developer&amp;rdquo; is the deeper and more conceptual programme and I has made a decision to start learning on this programme. I&amp;rsquo;ve completed some lessons and had planned to continue my education, but when I have studied proposals on the IT jobs market, I was surprised&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;I saw a lot of PHP jobs and only a few jobs related to Node.js.&lt;/p&gt;
-
-&lt;p&gt;Yes, I&amp;rsquo;m very interested in Node.js and related technologies. But, my primary goal is to get a good-payed remote job as a server-side web developer. If to look at the situation through the prism of my goal, then PHP is more suitable, than JavaScript.&lt;/p&gt;
-
-&lt;p&gt;So, I had canceled my Backend JS programme and started a new - PHP developer. The next week I&amp;rsquo;ll tell you what success (really?!) I have achieved on my new way.&lt;/p&gt;</content></entry>
+&lt;p&gt;Last week a has started to learn the server-side JavaScript. As for education platform (MOOC), I&amp;rsquo;ve selected Hexlet. &lt;a href="@|https://hexlet.io|"&gt;@|Hexlet|&lt;/a&gt; is one of more authoritative education platforms in Russia. It offers several learning paths - Frontend JavaScript Developer, Backend JavaScript Developer, PHP Developer and Java Developer.&lt;/p&gt;&lt;a href="https://bayborodin.ru/2017/10/pivot-at-start.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry>
  <entry>
   <title type="text">About me</title>
   <link rel="alternate" href="https://bayborodin.ru/2017/10/about-me.html?utm_source=all&amp;utm_medium=Atom" />
