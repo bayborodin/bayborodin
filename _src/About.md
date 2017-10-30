@@ -6,6 +6,7 @@ My name is Nicholas Bayborodin. I'm backend web developer. I live in Khabarovsk,
 * JavaScript
 * Go
 * Haskell
+* C/C++
 
 ### Platforms, frameworks
 * Node.js
