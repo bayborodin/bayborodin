@@ -3,16 +3,15 @@ My name is Nicholas Bayborodin. I'm backend web developer. I live in Khabarovsk,
 
 ## Things I like to use
 ### Programming languages
-* Go
+* JavaScript
 * Haskell
 * C/C++
 
 ### Platforms, frameworks
 * AWS
-* Google Cloud
-* Gin, Martini, Goji
+* Node.js,
 
 ### Other
+* Go
 * Docker
-* JavaScript, React.js, Node.js
 * PostgreSQL, MongoDB
