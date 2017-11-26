@@ -4,13 +4,13 @@
  <link rel="self" href="https://bayborodin.ru/feeds/hexlet.atom.xml" />
  <link href="https://bayborodin.ru/tags/hexlet.html" />
  <id>urn:https-bayborodin-ru:-tags-hexlet-html</id>
- <updated>2017-10-15T06:45:00Z</updated>
+ <updated>2017-11-26T02:43:00Z</updated>
  <entry>
   <title type="text">The First Project</title>
-  <link rel="alternate" href="https://bayborodin.ru/2017/10/the-first-project.html?utm_source=hexlet&amp;utm_medium=Atom" />
-  <id>urn:https-bayborodin-ru:-2017-10-the-first-project-html</id>
-  <published>2017-10-15T06:45:00Z</published>
-  <updated>2017-10-15T06:45:00Z</updated>
+  <link rel="alternate" href="https://bayborodin.ru/2017/11/the-first-project.html?utm_source=hexlet&amp;utm_medium=Atom" />
+  <id>urn:https-bayborodin-ru:-2017-11-the-first-project-html</id>
+  <published>2017-11-26T02:43:00Z</published>
+  <updated>2017-11-26T02:43:00Z</updated>
   <author>
    <name>Nicholas Bayborodin</name></author>
   <content type="html">

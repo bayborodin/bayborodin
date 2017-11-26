@@ -4,24 +4,14 @@
   <title>Nicholas Bayborodin's blog: Nicholas Bayborodin's blog</title>
   <description>Nicholas Bayborodin's blog: Nicholas Bayborodin's blog</description>
   <link>https://bayborodin.ru/index.html</link>
-  <lastBuildDate>Sun, 15 Oct 2017 06:45:00 UT</lastBuildDate>
-  <pubDate>Sun, 15 Oct 2017 06:45:00 UT</pubDate>
+  <lastBuildDate>Sun, 26 Nov 2017 02:43:00 UT</lastBuildDate>
+  <pubDate>Sun, 26 Nov 2017 02:43:00 UT</pubDate>
   <ttl>1800</ttl>
   <item>
-   <title>About me</title>
-   <link>https://bayborodin.ru/2017/10/about-me.html?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:https-bayborodin-ru:-2017-10-about-me-html</guid>
-   <pubDate>Sun, 15 Oct 2017 06:45:00 UT</pubDate>
-   <author>Nicholas Bayborodin</author>
-   <description>
-&lt;p&gt;Hi, all! My name is Harry Potter. Oops&amp;hellip; My name is Nicholas. I&amp;rsquo;m the software engineer from Russia. In this post, I will write few words about me and about this blog.&lt;/p&gt;
-
-&lt;p&gt;This blog is a chronicle about my way on IT.&lt;/p&gt;</description></item>
-  <item>
    <title>The First Project</title>
-   <link>https://bayborodin.ru/2017/10/the-first-project.html?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:https-bayborodin-ru:-2017-10-the-first-project-html</guid>
-   <pubDate>Sun, 15 Oct 2017 06:45:00 UT</pubDate>
+   <link>https://bayborodin.ru/2017/11/the-first-project.html?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:https-bayborodin-ru:-2017-11-the-first-project-html</guid>
+   <pubDate>Sun, 26 Nov 2017 02:43:00 UT</pubDate>
    <author>Nicholas Bayborodin</author>
    <description>
 &lt;p&gt;It was a special week.&lt;/p&gt;
@@ -38,4 +28,14 @@
 
 &lt;p&gt;I can not but note the practical value of the project. In the process of its implementation, I learned how to collect and publish the npm project, learned how to use ESLint, Babel and Make scripts. I learned how to connect the project to Travis CI and to Code Climate, and also to post on the Readme of my Github project beautiful badges.&lt;/p&gt;
 
-&lt;p&gt;But, most importantly - the project has inspired me to take the next steps in the chosen direction - Backend JavaScript Developer.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;But, most importantly - the project has inspired me to take the next steps in the chosen direction - Backend JavaScript Developer.&lt;/p&gt;</description></item>
+  <item>
+   <title>About me</title>
+   <link>https://bayborodin.ru/2017/10/about-me.html?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:https-bayborodin-ru:-2017-10-about-me-html</guid>
+   <pubDate>Sun, 15 Oct 2017 06:45:00 UT</pubDate>
+   <author>Nicholas Bayborodin</author>
+   <description>
+&lt;p&gt;Hi, all! My name is Harry Potter. Oops&amp;hellip; My name is Nicholas. I&amp;rsquo;m the software engineer from Russia. In this post, I will write few words about me and about this blog.&lt;/p&gt;
+
+&lt;p&gt;This blog is a chronicle about my way on IT.&lt;/p&gt;</description></item></channel></rss>
