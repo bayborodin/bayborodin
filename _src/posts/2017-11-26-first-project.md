@@ -19,3 +19,7 @@ The most vivid impression of this project is despair and a desire to throw it so
 I can not but note the practical value of the project. In the process of its implementation, I learned how to collect and publish the npm project, learned how to use ESLint, Babel and Make scripts. I learned how to connect the project to Travis CI and to Code Climate, and also to post on the Readme of my Github project beautiful badges.
 
 But, most importantly - the project has inspired me to take the next steps in the chosen direction - Backend JavaScript Developer.
+
+P.S. You can find my BrainGames project [here][brain-games].
+
+[brain-games]: https://github.com/bayborodin/project-lvl1-s168
