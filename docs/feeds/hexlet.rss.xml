@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <rss version="2.0">
  <channel>
-  <title>Nicholas Bayborodin's blog: Nicholas Bayborodin's blog</title>
-  <description>Nicholas Bayborodin's blog: Nicholas Bayborodin's blog</description>
-  <link>https://bayborodin.ru/index.html</link>
+  <title>Nicholas Bayborodin's blog: Posts tagged 'hexlet'</title>
+  <description>Nicholas Bayborodin's blog: Posts tagged 'hexlet'</description>
+  <link>https://bayborodin.ru/tags/hexlet.html</link>
   <lastBuildDate>Sun, 15 Oct 2017 06:45:00 UT</lastBuildDate>
   <pubDate>Sun, 15 Oct 2017 06:45:00 UT</pubDate>
   <ttl>1800</ttl>
   <item>
-   <title>About me</title>
-   <link>https://bayborodin.ru/2017/10/about-me.html?utm_source=all&amp;utm_medium=RSS</link>
-   <guid isPermaLink="false">urn:https-bayborodin-ru:-2017-10-about-me-html</guid>
-   <pubDate>Sun, 15 Oct 2017 06:45:00 UT</pubDate>
-   <author>Nicholas Bayborodin</author>
-   <description>
-&lt;p&gt;Hi, all! My name is Harry Potter. Oops&amp;hellip; My name is Nicholas. I&amp;rsquo;m the software engineer from Russia. In this post, I will write few words about me and about this blog.&lt;/p&gt;
-
-&lt;p&gt;This blog is a chronicle about my way on IT.&lt;/p&gt;</description></item>
-  <item>
    <title>The First Project</title>
-   <link>https://bayborodin.ru/2017/10/the-first-project.html?utm_source=all&amp;utm_medium=RSS</link>
+   <link>https://bayborodin.ru/2017/10/the-first-project.html?utm_source=hexlet&amp;utm_medium=RSS</link>
    <guid isPermaLink="false">urn:https-bayborodin-ru:-2017-10-the-first-project-html</guid>
    <pubDate>Sun, 15 Oct 2017 06:45:00 UT</pubDate>
    <author>Nicholas Bayborodin</author>
