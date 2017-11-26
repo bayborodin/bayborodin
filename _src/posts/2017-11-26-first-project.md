@@ -4,7 +4,7 @@
 
 It was a special week.
 
-The matter is that I pass training in online school Hexlet.io under the program Backend JavaScript Developer. The process consists of a series of video lessons, text material, and inactive programming tasks. But, the most valuable are the projects. The project is a big task, looking at the stages. The aim of the student is to follow all the steps under the direction of the mentor and get the finished software product.
+The matter is that I pass training in online school [Hexlet.io][hexlet-io] under the program Backend JavaScript Developer. The process consists of a series of video lessons, text material, and inactive programming tasks. But, the most valuable are the projects. The project is a big task, looking at the stages. The aim of the student is to follow all the steps under the direction of the mentor and get the finished software product.
 <!-- more -->
 
 In this case, your work is checked by the mentor, accepting or rejecting the assignments. Mentor gives practical advice on how to properly organize the structure of the project, helps build the life cycle of the development process. Does the code review.
@@ -23,3 +23,4 @@ But, most importantly - the project has inspired me to take the next steps in th
 P.S. You can find my BrainGames project [here][brain-games].
 
 [brain-games]: https://github.com/bayborodin/project-lvl1-s168
+[hexlet-io]: https://en.hexlet.io/
