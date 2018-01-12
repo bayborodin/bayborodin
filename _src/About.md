@@ -8,8 +8,8 @@ My name is Nicholas Bayborodin. I'm Java developer. I live in Khabarovsk, Russia
 * JavaScript
 
 ### Frameworks
-* AWS
-* Node.js,
+* Spring
+* Hibernate
 
 ### Other
 * AWS
