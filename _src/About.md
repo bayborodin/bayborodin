@@ -3,15 +3,17 @@ My name is Nicholas Bayborodin. I'm Java developer. I live in Khabarovsk, Russia
 
 ## Things I like to use
 ### Programming languages
+* Java
+* Kotlin
 * JavaScript
-* Haskell
-* C/C++
 
-### Platforms, frameworks
+### Frameworks
 * AWS
 * Node.js,
 
 ### Other
-* Go
+* AWS
 * Docker
-* PostgreSQL, MongoDB
+* Kubernetes
+* PostgreSQL
+* MongoDB
