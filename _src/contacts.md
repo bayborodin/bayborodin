@@ -1,5 +1,7 @@
 # Contacts
 
+You are welcome to contact me via the next social networks:
+
 * [Facebook][facebook]
 * [Linkedin][linkedin]
 * [Github][github]
