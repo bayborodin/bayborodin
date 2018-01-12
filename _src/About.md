@@ -17,3 +17,8 @@ My name is Nicholas Bayborodin. I'm Java developer. I live in Khabarovsk, Russia
 * Kubernetes
 * PostgreSQL
 * MongoDB
+
+## Books I read
+I read a lot. And you can find my reading list on [Trello][trello].
+
+[trello]: https://trello.com/b/6dNAQC2l/reading-list
