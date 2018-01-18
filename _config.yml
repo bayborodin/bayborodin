@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "bayborodin.ru"
+url: "http://bayborodin.ru"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
