@@ -16,8 +16,3 @@ permalink: /about/
 Еще я очень люблю читать. Для удобства я веду список книг для чтения на
 [Trello](https://trello.com/b/6dNAQC2l/reading-list). Буду рад, если что-то из
 моего списка вам так же пригодится или просто доставит удовольствие.
-
-Мой профиль в соц. сетях:
-- [Github](https://github.com/bayborodin)
-- [Linkedin](https://www.linkedin.com/in/nbayborodin/)
-- [Facebook](https://www.facebook.com/nbayborodin)
