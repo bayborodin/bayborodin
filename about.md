@@ -18,6 +18,6 @@ permalink: /about/
 моего списка вам так же пригодится или просто доставит удовольствие.
 
 Мой профиль в соц. сетях:
-*[Github](https://github.com/bayborodin)
-*[Linkedin](https://www.linkedin.com/in/nbayborodin/)
-*[Facebook](https://www.facebook.com/nbayborodin)
+- [Github](https://github.com/bayborodin)
+- [Linkedin](https://www.linkedin.com/in/nbayborodin/)
+- [Facebook](https://www.facebook.com/nbayborodin)
