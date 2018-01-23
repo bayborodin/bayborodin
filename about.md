@@ -2,11 +2,21 @@
 layout: page
 title: Обо мне
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Всем привет!
+Меня зовут Николай Байбородин.
+Живу на Дальнем Востоке - в Хабаровске, и работаю программистом. А еще я - отец
+четырех детей.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+В этом блоге я буду писать свои заметки о программировании. Если кратко рассказать
+о моих профессиональных интересах, то это - Ruby/RoR и немного функционального
+программирования (Elixir, Erlang, Haskell).
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Еще я очень люблю читать. Для удобства я веду список книг для чтения на
+[Trello](). Буду рад, если что-то из моего списка вам так же пригодится или
+просто доставит удовольствие.
+
+[Github]()
+[Linkedin]()
+[Facebook]()
