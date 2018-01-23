@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
-hide: true
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
