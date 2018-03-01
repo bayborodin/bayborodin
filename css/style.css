@@ -1,109 +1,38 @@
-body, div { 
-	margin:0; 
-	padding:0;
-}
 body {
-	background-color: #fff;
-}
-a:link {color:#333;}      /* unvisited link */
-a:visited {color:#333;}  /* visited link */
-
-a:hover {color:#000;}  /* mouse over link */
-a:active {color:#000;}  /* selected link */
-@charset "UTF-8";
-
-@font-face {
- font-family: 'Nexa Bold';
- src: url('./fonts/Nexa Light.otf') format('opentype'); 
+  font-family: Georgia;
+  font-size: 16px;
+  margin: 0 auto;   /* center content */
+  max-width: 800px; /* limit width */
+  line-height: 1.5;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
-@font-face {
- font-family: 'Prociono';
- src: url('./fonts/Prociono.otf') format('opentype');
-}
-div #preview { 
-	/*margin: 0 auto;*/
-	border-radius: 100%;
-	padding: 20px;
-	background-color: #fff;
-	z-index: 1000;
-	width:420px; 
-	height:330px; 
-	top: 50%;
-	left: 50%;
-	position: absolute;
-	margin-top:-190px; 
-	margin-left: -210px;
-	text-align: center; 
-	asd;
+p { margin-bottom: 12px; }
+
+h1, h2, h3 {
+	font-weight: 400;
+	margin-bottom: 0px;
 }
 
-.preview-body-inner {
-	z-index: 100;
-	display: inline-block;
+h1 { font-size: 36px; }
+
+h2 { 
+	font-size: 32px;
+	margin-bottom: 8px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: gray; 
+}
+
+h3 { font-size: 20px;}
+
+#header {
+	margin-bottom:32px;
 	text-align: center;
 }
-.preview-avatar {
-	width: 95px;
-	height: 95px;
-	-webkit-border-radius: 100%;
-	-moz-border-radius: 100%;
-	border-radius: 95px;
-	overflow: hidden;
-	border: 4px solid #fff;
-	z-index: 400;
-	background-color: #fff;
-	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3);
-	-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3);
-	box-shadow: 0 1px 1px rgba(0,0,0,0.3);
-	display: inline-block;
-}
-.preview-avatar>img {
-	width: 100%;
-	height: auto;
-	-webkit-border-radius: 100%;
-	-moz-border-radius: 100%;
-	border-radius: 95px;
-	background: #f2f2f0;
-}
-.preview-title {
-	font-family: 'Prociono', serif;
-}
 
-.preview-description {
-	font-family: 'Nexa Bold', serif;
-}
-
-.followme-title {
-	font-family: 'Prociono', serif;
-	padding: 0px;
-	margin: 0px;
-}
-
-.followme-body {
-	font-family: 'Prociono', serif;
-	padding: 0px;
-	margin: 0px;
-}
-
-.mail-title {
-	font-family: 'Nexa Bold', serif;
-	padding: 10px;
-}
-.body-header {
-/*	background-color: black;
-	background-repeat:no-repeat;
-	background-position:center;
-	display: block;
-	width:100%; 
-	height:300px; */
-}
-.header-body-inner {
-	display: block;
+#footer {
+	margin-top: 63px;
 	text-align: center;
-}
-.header-title {
-	font-family: 'Prociono', serif;
-	padding: 0px;
-	margin: 0px;
 }
