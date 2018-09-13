@@ -69,3 +69,12 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.cv {
+	margin-bottom: 1rem;
+}
+
+.cv a:link { color: #1E1E1E; }
+.cv a:visited { color: #1E1E1E; }
+.cv a:hover { color: #1E1E1E; }
+.cv a:active { color: #1E1E1E; }
