@@ -18,3 +18,5 @@
 [![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains&link=https://github.com/bayborodin)](https://github.com/bayborodin) 
 [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse&link=https://github.com/bayborodin)](https://github.com/bayborodin) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/bayborodin)](https://github.com/bayborodin) 
+
+![Nikolay's github stats](https://github-readme-stats.vercel.app/api?username=bayborodin&show_icons=true&hide_border=true)
