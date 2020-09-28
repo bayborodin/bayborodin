@@ -2,6 +2,8 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bayborodin)](https://twitter.com/bayborodin) 
 
+Hey, my name is Nikolay and I am a Python Backend Developer from Russia.
+
 **Languages and Tools:**  
 [![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&link=https://github.com/bayborodin)](https://github.com/bayborodin) 
 [![Flask](https://img.shields.io/badge/Flask-gray?style=flat&logo=flask&logoColor=white&link=https://github.com/bayborodin)](https://github.com/bayborodin) 
