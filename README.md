@@ -7,7 +7,7 @@ I'm Nikolay. I work as a full-time software engineer. In my spare time I do open
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin/bayborodin)](https://linkedin/bayborodin) 
 
 
-**Languages and Tools:**  
+**Buzzwords:**  
 [![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&link=https://github.com/bayborodin)](https://github.com/bayborodin) 
 [![Flask](https://img.shields.io/badge/Flask-gray?style=flat&logo=flask&logoColor=white&link=https://github.com/bayborodin)](https://github.com/bayborodin) 
 [![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=django&logoColor=white&link=https://github.com/bayborodin)](https://github.com/bayborodin) 
