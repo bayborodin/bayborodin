@@ -4,7 +4,7 @@ I'm Nikolay. I work as a full-time software engineer. In my spare time I do open
 
 ### Getting in touch
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bayborodin)](https://twitter.com/bayborodin) 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bayborodin)](https://twitter.com/bayborodin) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=twitter&logoColor=white&link=https://linkedin/bayborodin)](https://linkedin/bayborodin) 
 
 
 **Languages and Tools:**  
