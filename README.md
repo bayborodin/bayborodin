@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Nikolay. I work as a full-time software engineer. In my spare time I do open-sourcing _(normally it is about 1-2 hours in the morning before the work)_. Most of my open-source projects below 👇🏻 are focused on one thing -  **to help people learn** 📚. You may use these projects to learn about _algorithms in JavaScript_ and get prepared for _technical interviews_, or to learn _Python_ syntax and start experimenting with _machine learning algorithms_ and math behind them, etc.
+I'm Nikolay. I work as a full-time software engineer. In my spare time I learn I study sections of Computer Science that are new to me, new technologies and software development practices that interest me. _(normally it is about 1-2 hours in the morning before the work)_ and experiments with code.
 
 ### Getting in touch
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bayborodin)](https://twitter.com/bayborodin) 
