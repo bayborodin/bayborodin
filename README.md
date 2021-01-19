@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Nikolay. I work as a full-time software engineer. In my spare time I learn I study sections of Computer Science that are new to me, new technologies and software development practices that interest me. _(normally it is about 1-2 hours in the morning before the work)_ and experiments with code.
+I'm Nikolay. I work as a full-time software engineer. In my spare time I study sections of Computer Science that are new to me, new technologies and software development practices that interest me. _(normally it is about 1-2 hours in the morning before the work)_ and experiments with code.
 
 ### Getting in touch
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/bayborodin)](https://twitter.com/bayborodin) 
